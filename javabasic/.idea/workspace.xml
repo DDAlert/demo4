@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05f7e7cd-7875-4a45-9cd6-52e3de49121d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javabasic" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1Ysjc9563KR2RWlJWBXAD2ldJZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../o2o" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.ThreadPoolDemao">
+    <configuration name="ByteCodeSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.javabasic.bytecode.ByteCodeSample" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.javabasic.bytecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CycleWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.javabasic.thread.CycleWait" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.javabasic.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTaskDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.javabasic.thread.FutureTaskDemo" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.javabasic.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolDemao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.javabasic.thread.ThreadPoolDemao" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.javabasic.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadPoolDemao" />
+        <item itemvalue="Application.FutureTaskDemo" />
+        <item itemvalue="Application.CycleWait" />
+        <item itemvalue="Application.ByteCodeSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05f7e7cd-7875-4a45-9cd6-52e3de49121d" name="Default Changelist" comment="" />
+      <created>1583738272677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583738272677</updated>
+      <workItem from="1583738275964" duration="3688000" />
+      <workItem from="1583756948278" duration="624000" />
+      <workItem from="1584085413570" duration="12999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1584682667336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584682667336" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583828205579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583828205579" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1584686213075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584686213075" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1584686213074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584686213074" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1584686213074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584686213074" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1584686213074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584686213074" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1584681110725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584681110725" />
+  </component>
+</project>
